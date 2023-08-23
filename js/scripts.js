@@ -1,9 +1,9 @@
 /*
    
-    Template Name : WebRes - Personal Resume Template
-    Author : UiPasta Team
-    Website : http://www.uipasta.com/
-    Support : http://www.uipasta.com/support/
+    Template Name : WebRes - Personal Resume
+    Author : Salukhoff Sergey
+    Website : http://www../
+    Support : http://www.supportanet.ru
 	
 	
 */
